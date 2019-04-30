@@ -3,6 +3,6 @@
 ## Links para os repositórios de cada módulo:
 
 * [Módulo I](https://github.com/tamercuba/impacta-sql-server/tree/master/mod_I)
-* Módulo II 
+* [Módulo II](https://github.com/tamercuba/impacta-sql-server/tree/master/mod_II) 
 * Módulo III
 * BI with SQL Server 2016
