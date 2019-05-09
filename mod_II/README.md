@@ -3,8 +3,8 @@
 ## Soluções dos exercícios:
 
 * Capítulo 1
-* Capítulo 2
-* Capítulo 3
+* [Capítulo 2](https://github.com/tamercuba/impacta-sql-server/tree/master/mod_II/cap_2)
+* [Capítulo 3](https://github.com/tamercuba/impacta-sql-server/tree/master/mod_II/cap_3)
 * Capítulo 4
 * Capítulo 5
 * Capítulo 6
